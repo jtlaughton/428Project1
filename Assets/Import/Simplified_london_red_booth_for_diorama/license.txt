@@ -1,0 +1,11 @@
+Model Information:
+* title:	Simplified london red booth for diorama
+* source:	https://sketchfab.com/3d-models/simplified-london-red-booth-for-diorama-0d57de610add4c07b7689e4751d6f63c
+* author:	sabinoplane (https://sketchfab.com/sabinoplane)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Simplified london red booth for diorama" (https://sketchfab.com/3d-models/simplified-london-red-booth-for-diorama-0d57de610add4c07b7689e4751d6f63c) by sabinoplane (https://sketchfab.com/sabinoplane) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
