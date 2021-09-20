@@ -29,6 +29,10 @@ London Bus, “London Bus” (https://sketchfab.com/3d-models/london-bus-88c9461
 
 - Background Music London, “String Quintet in E Major, G. 275: III. Minuetto” (https://www.youtube.com/watch?v=CQ5epC4wcb8) by Gyorgy Eder
 
+- London Scene Image, “ Coat of Arms of The City of London” (https://en.wikipedia.org/wiki/Flag_of_the_City_of_London#/media/File:Coat_of_Arms_of_The_City_of_London.svg) by Sodacan
+
+- Tokyo Scene Image, “ Flag of Japan” (https://en.wikipedia.org/wiki/Flag_of_Japan#/media/File:Flag_of_Japan.svg) by Anomie
+
 ### Imported Not Used
 
 - Other Vending Machine, "Japan Vending Machine Soft Drink" (https://skfb.ly/6RRxZ) by ditovirnantio is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
